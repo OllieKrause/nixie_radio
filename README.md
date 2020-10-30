@@ -9,4 +9,4 @@ I hope to document this project in much greater detail once I'm satisfied with t
 
 Questions, comments, suggestions?
 Ollie.krause@gmail.com
-bananascience.net
+https://bananascience.net
