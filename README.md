@@ -7,4 +7,6 @@ While the code and hardware have been tested, this project is still very much a 
 
 I hope to document this project in much greater detail once I'm satisfied with the first prototype. 
 
-Questions, comments, suggestions? Ollie.krause@gmail.com
+Questions, comments, suggestions?
+Ollie.krause@gmail.com
+bananascience.net
